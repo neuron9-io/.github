@@ -1,6 +1,6 @@
-# Neuron9
+# Neuron 9
 
-Neuron9 (neuron9.io) designs and builds tools and systems for organizations with complex workflows, from nonprofits and educational programs to boutique agencies and creative studios.  
+Neuron 9 (neuron9.io) designs and builds tools and systems for organizations with complex workflows, from nonprofits and educational programs to boutique agencies and creative studios.  
 Our focus is on clarity, usability, and making technology work for people.
 
 This GitHub organization hosts:
