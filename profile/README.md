@@ -7,7 +7,7 @@ Our focus is on clarity, usability, and making technology work for people.
 This GitHub organization hosts:
 
 - Internal experiments and prototypes
-- Shared resources for projects under the Neuron9 brand
+- Shared resources for projects under the Neuron 9 brand
 
 Every repo reflects a focus on clarity, quality, and thoughtful design.
 
