@@ -14,7 +14,7 @@ Every repo reflects a focus on clarity, quality, and thoughtful design.
 ## Connect with us
 
 🌐 Website: [neuron9.io](https://neuron9.io)  
-📧 Contact: robin@neuron9.io (optional, if you want public email)
+📧 Contact: robin@neuron9.io
 
 ---
 
